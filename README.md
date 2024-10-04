@@ -64,7 +64,7 @@
    ![image](https://github.com/user-attachments/assets/d4f1f098-1e9c-4436-bb39-a2c42f2e4c22)
 
 ### Ссылка на базовое решение с подробным объяснением в Google Colab(немного отличается от финального, но суть та же)
-https://colab.research.google.com/drive/
+[https://colab.research.google.com/drive/](https://colab.research.google.com/drive/12AEfG43BqIJdrjB_GGbzmXGNJkGhjmW8)
 
 ### Ссылка на нашего телеграм бота p.s. пока работает на локалке
 https://t.me/MTSUI_bot
